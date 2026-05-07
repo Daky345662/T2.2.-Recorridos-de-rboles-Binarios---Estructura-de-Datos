@@ -129,8 +129,7 @@ Respuesta: Para liberar memoria de un arbol eliminando hijos antes que el padre.
 
 ## Enlace del repositorio
 
-https://github.com/TU-USUARIO/Recorridos-Arboles-Binarios-UTA
-
+https://github.com/Daky345662/T2.2.-Recorridos-de-rboles-Binarios---Estructura-de-Datos.git
 ## Autor
 
 Daky Fernando Fueres Perugachi - Tercero "B" - Estructura de Datos
